@@ -1,0 +1,24 @@
+C:\Users\102151272\selectiondemo\obj\Debug\netcoreapp3.1\selectiondemo.csprojAssemblyReference.cache
+C:\Users\102151272\selectiondemo\obj\Debug\netcoreapp3.1\selectiondemo.AssemblyInfoInputs.cache
+C:\Users\102151272\selectiondemo\obj\Debug\netcoreapp3.1\selectiondemo.AssemblyInfo.cs
+C:\Users\102151272\selectiondemo\bin\Debug\netcoreapp3.1\selectiondemo.exe
+C:\Users\102151272\selectiondemo\bin\Debug\netcoreapp3.1\selectiondemo.deps.json
+C:\Users\102151272\selectiondemo\bin\Debug\netcoreapp3.1\selectiondemo.runtimeconfig.json
+C:\Users\102151272\selectiondemo\bin\Debug\netcoreapp3.1\selectiondemo.runtimeconfig.dev.json
+C:\Users\102151272\selectiondemo\bin\Debug\netcoreapp3.1\selectiondemo.dll
+C:\Users\102151272\selectiondemo\bin\Debug\netcoreapp3.1\selectiondemo.pdb
+C:\Users\102151272\selectiondemo\obj\Debug\netcoreapp3.1\selectiondemo.dll
+C:\Users\102151272\selectiondemo\obj\Debug\netcoreapp3.1\selectiondemo.pdb
+C:\Users\Cooler Master\Documents\swinburne\Intro_into_programming\Nested repition\obj\Debug\netcoreapp3.1\selectiondemo.csprojAssemblyReference.cache
+C:\Users\Cooler Master\Documents\swinburne\Intro_into_programming\Nested repition\obj\Debug\netcoreapp3.1\selectiondemo.csproj.CoreCompileInputs.cache
+C:\Users\Cooler Master\Documents\swinburne\Intro_into_programming\Nested repition\obj\Debug\netcoreapp3.1\selectiondemo.AssemblyInfoInputs.cache
+C:\Users\Cooler Master\Documents\swinburne\Intro_into_programming\Nested repition\obj\Debug\netcoreapp3.1\selectiondemo.AssemblyInfo.cs
+C:\Users\Cooler Master\Documents\swinburne\Intro_into_programming\Nested repition\obj\Debug\netcoreapp3.1\selectiondemo.dll
+C:\Users\Cooler Master\Documents\swinburne\Intro_into_programming\Nested repition\obj\Debug\netcoreapp3.1\selectiondemo.pdb
+C:\Users\Cooler Master\Documents\swinburne\Intro_into_programming\Nested repition\bin\Debug\netcoreapp3.1\selectiondemo.exe
+C:\Users\Cooler Master\Documents\swinburne\Intro_into_programming\Nested repition\bin\Debug\netcoreapp3.1\selectiondemo.deps.json
+C:\Users\Cooler Master\Documents\swinburne\Intro_into_programming\Nested repition\bin\Debug\netcoreapp3.1\selectiondemo.runtimeconfig.json
+C:\Users\Cooler Master\Documents\swinburne\Intro_into_programming\Nested repition\bin\Debug\netcoreapp3.1\selectiondemo.runtimeconfig.dev.json
+C:\Users\Cooler Master\Documents\swinburne\Intro_into_programming\Nested repition\bin\Debug\netcoreapp3.1\selectiondemo.dll
+C:\Users\Cooler Master\Documents\swinburne\Intro_into_programming\Nested repition\bin\Debug\netcoreapp3.1\selectiondemo.pdb
+C:\Users\Cooler Master\Documents\swinburne\Intro_into_programming\Nested repition\obj\Debug\netcoreapp3.1\selectiondemo.genruntimeconfig.cache
