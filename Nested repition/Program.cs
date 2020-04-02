@@ -46,21 +46,23 @@ namespace selectiondemo
                     }
          */
                 
-             
-                    
-                    
-                        string name = "x";
-                        int counter = 1;
-                   
-                    
+            int counter = 1;
 
-                        for (int counter2 = counter; counter2 < 5 ; counter2++){
-                        {
-                            System.Console.Write(name);
-                        }
+            while (counter <=5)
+            {
+                for (int i = 1; i <=counter; i++){
+                    Console.Write("X");
+                }
+                
+                Console.WriteLine();
+
+                counter ++;
+
+            }
                     
-                        System.Console.WriteLine(name);
-                    }
+            Console.ReadKey();        
+                        
+                    
                    
 
 
