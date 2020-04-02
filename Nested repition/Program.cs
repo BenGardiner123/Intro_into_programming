@@ -7,7 +7,7 @@ namespace selectiondemo
         static void Main(string[] args)
         {
     
-       
+       //Exercise 2
         //Task 1
          /* 
                  
@@ -46,9 +46,7 @@ namespace selectiondemo
                     }
             
          */
-                
-
-                    
+        /*    // Task 3
                         
             int counter = 1;
                    
@@ -66,12 +64,28 @@ namespace selectiondemo
 
             }
                     
-            Console.ReadKey();        
-                        
+                
+          */              
+
+            //task 4 
+            Console.WriteLine("please enter a number b/w 1 and 5");
+            int userCounter = Int32.Parse(Console.ReadLine());
+                            
+
+            while (userCounter <=5){
+
+                for (int i = 1; i <=userCounter; i++){
+                    Console.Write("X");
+                }
+                
+                Console.WriteLine();
+
+                userCounter ++;
+
+            }
                     
-                   
-
-
+              
+            
         }
     }
 }
