@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using System.Collections.Generic;  
 
 
 namespace Arrays_and_lists
@@ -8,7 +9,7 @@ namespace Arrays_and_lists
     {
         static void Main(string[] args)
         {
-                string[] userName = new string[5];
+/*                 string[] userName = new string[5];
 
                 for (int i = 0; i < userName.Length; i++){
 
@@ -28,12 +29,33 @@ namespace Arrays_and_lists
         
         int sum = userValue.Sum();
         Console.WriteLine(sum);
+ */
+         List<int> myNum = new List<int>();
 
+        Console.WriteLine("Please enter 5 numbers...");
 
+        for (i = 0; myNum.Length < 6; i++)
+        {
+            myNum = Int32.Parse(Console.In.ReadLine());
+        }
+        
+        Console.WriteLine("Please enter another number...");
+        usernum = Int32.Parse(Console.ReadLine());
+
+        if (myNum.Contains(usernum)){
+            Console.WriteLine("your number aleady exits...");
+        }
+
+        else {
+        Console.WriteLine("good work......");
+        }
+         
+
+/* rite a program that reads in 5 numbers. It then asks the user for another number and outputs whether the number has already been entered.
+As above except the program will tell the user how many times a repeated number has been entered
+A program stores words read from console, until the word "stop" is entered.  It then outputs the words entered in reverse order. */
         }
     }
 }
 
 
-/* Create a program that reads in 5 names from the console.  It then prints out "Hello <name>" for all the names entered
-A program starts with the values 34, 5, 67, 1, 99, 34, 44, 78, 34, 0. Write a program that adds all numbers together and outputs the total. */
