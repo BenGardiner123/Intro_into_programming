@@ -34,13 +34,13 @@ namespace Arrays_and_lists
 
         Console.WriteLine("Please enter 5 numbers...");
 
-        for (i = 0; myNum.Length < 6; i++)
+        for (int i = 0; i < 5; i++)
         {
-            myNum = Int32.Parse(Console.In.ReadLine());
+            myNum.Add(int.Parse(Console.ReadLine()));
         }
         
         Console.WriteLine("Please enter another number...");
-        usernum = Int32.Parse(Console.ReadLine());
+        int usernum = Int32.Parse(Console.ReadLine());
 
         if (myNum.Contains(usernum)){
             Console.WriteLine("your number aleady exits...");

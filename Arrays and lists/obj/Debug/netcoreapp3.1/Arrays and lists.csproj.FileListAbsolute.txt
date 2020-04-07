@@ -11,3 +11,16 @@ C:\Users\Cooler Master\Documents\swinburne\Intro_into_programming\Arrays and lis
 C:\Users\Cooler Master\Documents\swinburne\Intro_into_programming\Arrays and lists\obj\Debug\netcoreapp3.1\Arrays and lists.dll
 C:\Users\Cooler Master\Documents\swinburne\Intro_into_programming\Arrays and lists\obj\Debug\netcoreapp3.1\Arrays and lists.pdb
 C:\Users\Cooler Master\Documents\swinburne\Intro_into_programming\Arrays and lists\obj\Debug\netcoreapp3.1\Arrays and lists.genruntimeconfig.cache
+C:\Users\User\Desktop\Intro_into_programming\Arrays and lists\bin\Debug\netcoreapp3.1\Arrays and lists.exe
+C:\Users\User\Desktop\Intro_into_programming\Arrays and lists\bin\Debug\netcoreapp3.1\Arrays and lists.deps.json
+C:\Users\User\Desktop\Intro_into_programming\Arrays and lists\bin\Debug\netcoreapp3.1\Arrays and lists.runtimeconfig.json
+C:\Users\User\Desktop\Intro_into_programming\Arrays and lists\bin\Debug\netcoreapp3.1\Arrays and lists.runtimeconfig.dev.json
+C:\Users\User\Desktop\Intro_into_programming\Arrays and lists\bin\Debug\netcoreapp3.1\Arrays and lists.dll
+C:\Users\User\Desktop\Intro_into_programming\Arrays and lists\bin\Debug\netcoreapp3.1\Arrays and lists.pdb
+C:\Users\User\Desktop\Intro_into_programming\Arrays and lists\obj\Debug\netcoreapp3.1\Arrays and lists.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Intro_into_programming\Arrays and lists\obj\Debug\netcoreapp3.1\Arrays and lists.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Intro_into_programming\Arrays and lists\obj\Debug\netcoreapp3.1\Arrays and lists.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Intro_into_programming\Arrays and lists\obj\Debug\netcoreapp3.1\Arrays and lists.AssemblyInfo.cs
+C:\Users\User\Desktop\Intro_into_programming\Arrays and lists\obj\Debug\netcoreapp3.1\Arrays and lists.dll
+C:\Users\User\Desktop\Intro_into_programming\Arrays and lists\obj\Debug\netcoreapp3.1\Arrays and lists.pdb
+C:\Users\User\Desktop\Intro_into_programming\Arrays and lists\obj\Debug\netcoreapp3.1\Arrays and lists.genruntimeconfig.cache
