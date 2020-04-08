@@ -30,7 +30,7 @@ namespace Arrays_and_lists
         int sum = userValue.Sum();
         Console.WriteLine(sum);
  */
-         List<int> myNum = new List<int>();
+   /*       List<int> myNum = new List<int>();
 
         Console.WriteLine("Please enter 5 numbers...");
 
@@ -48,10 +48,42 @@ namespace Arrays_and_lists
 
         else {
         Console.WriteLine("good work......");
-        }
+        } */
          
+            List<int> myNum = new List<int>();
 
-/* rite a program that reads in 5 numbers. It then asks the user for another number and outputs whether the number has already been entered.
+            Console.WriteLine("Please enter 5 numbers...");
+
+            for (int i = 0; i < 5; i++)
+            {
+                myNum.Add(int.Parse(Console.ReadLine()));
+            }
+            
+            Console.WriteLine("Please enter another number...");
+            
+            int usernum = Int32.Parse(Console.ReadLine());
+            
+            Console.WriteLine("Checking your number against our historical data...");
+            int conflicts = 0; 
+
+            for (int i = 0; i < 5; i++)
+                if (myNum.Contains(usernum))
+                {
+                    Console.WriteLine("++");
+                    conflicts++;
+                }
+                else
+                {
+                    
+                }
+           Console.WriteLine("Your number has been entered" + ""conflicts""+ "times..."); 
+
+
+
+
+
+
+/* 
 As above except the program will tell the user how many times a repeated number has been entered
 A program stores words read from console, until the word "stop" is entered.  It then outputs the words entered in reverse order. */
         }
