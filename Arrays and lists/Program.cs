@@ -50,7 +50,7 @@ namespace Arrays_and_lists
         Console.WriteLine("good work......");
         } */
          
-            List<int> myNum = new List<int>();
+         /*    List<int> myNum = new List<int>();
 
             Console.WriteLine("Please enter 5 numbers...");
 
@@ -81,8 +81,23 @@ namespace Arrays_and_lists
             else
             {
                 Console.WriteLine("Lucky you... thats a new number..");
-            }
+            } */
            
+           List<string> userWords = new List<string>();
+            string stopSign = "stop";
+
+            Console.WriteLine("Please enter some words...");
+
+           string userInput =  Console.ReadLine();
+
+            while (userInput != "stop")
+            {
+                userWords.Add(userInput);
+            } 
+            if (userInput == "stop")
+            {
+                userWords.Reverse() 
+            }
 
 
 
@@ -90,7 +105,7 @@ namespace Arrays_and_lists
 
 
 /* 
-As above except the program will tell the user how many times a repeated number has been entered
+
 A program stores words read from console, until the word "stop" is entered.  It then outputs the words entered in reverse order. */
         }
     }
