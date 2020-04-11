@@ -83,25 +83,31 @@ namespace Arrays_and_lists
                 Console.WriteLine("Lucky you... thats a new number..");
             } */
            
-           List<string> userWords = new List<string>();
-            string stopSign = "stop";
+            List<string> userWords = new List<string>();
+            
 
             Console.WriteLine("Please enter some words...");
 
-           string userInput =  Console.ReadLine();
-
-            while (userInput != "stop")
+            while (true)
             {
+            string userInput = Console.ReadLine();
+            if (userInput.Equals("stop", StringComparison.OrdinalIgnoreCase))
+            {
+                break;
+            }
+            else
                 userWords.Add(userInput);
-            } 
-            if (userInput == "stop")
-            {
-                userWords.Reverse() 
+                
+            }
+            
+            userWords.Reverse();
+
+            foreach (string s in userWords){
+                Console.WriteLine(s);
             }
 
 
-
-
+//userWords.Add(userInput);
 
 
 /* 
