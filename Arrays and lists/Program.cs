@@ -50,7 +50,7 @@ namespace Arrays_and_lists
         Console.WriteLine("good work......");
         } */
          
-            List<int> myNum = new List<int>();
+         /*    List<int> myNum = new List<int>();
 
             Console.WriteLine("Please enter 5 numbers...");
 
@@ -64,27 +64,54 @@ namespace Arrays_and_lists
             int usernum = Int32.Parse(Console.ReadLine());
             
             Console.WriteLine("Checking your number against our historical data...");
+            bool found = false;
             int conflicts = 0; 
 
-            for (int i = 0; i < 5; i++)
-                if (myNum.Contains(usernum))
+            for (int i = 0; i < myNum.Count; i++)
+                
+                if (usernum == myNum[i])
                 {
-                    Console.WriteLine("++");
+                    found = true;
                     conflicts++;
                 }
-                else
-                {
-                    
-                }
-           Console.WriteLine("Your number has been entered" + ""conflicts""+ "times..."); 
+            if (found = true)
+            {
+                Console.WriteLine("oh god dammit, you already entered that " +" " + conflicts + " " + "times...");
+            }
+            else
+            {
+                Console.WriteLine("Lucky you... thats a new number..");
+            } */
+           
+            List<string> userWords = new List<string>();
+            
+
+            Console.WriteLine("Please enter some words...");
+
+            while (true)
+            {
+            string userInput = Console.ReadLine();
+            if (userInput.Equals("stop", StringComparison.OrdinalIgnoreCase))
+            {
+                break;
+            }
+            else
+                userWords.Add(userInput);
+                
+            }
+            
+            userWords.Reverse();
+
+            foreach (string s in userWords){
+                Console.WriteLine(s);
+            }
 
 
-
-
+//userWords.Add(userInput);
 
 
 /* 
-As above except the program will tell the user how many times a repeated number has been entered
+
 A program stores words read from console, until the word "stop" is entered.  It then outputs the words entered in reverse order. */
         }
     }
